@@ -9,5 +9,6 @@ function stringBasics() {
 console.log(`my first hobby  is: ${hobby1}  my second hobby is: ${hobby2}  and my third hobby is:${hobby3}`);
 var sum=hobby1+hobby2+hobby3;
 console.log(`concatenation of hobbies are: ${sum}`);
+console.log(`total number of char in concatenation string ${sum.length}`);
 }
 stringBasics();
