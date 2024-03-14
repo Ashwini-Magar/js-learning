@@ -21,4 +21,4 @@ return res=num1-num2;
 var returnValue=subtract(10,5);
 var returnValue=subtract(6,5);
 
-console.log("subtraction is",result);
+console.log("subtraction is",res);
