@@ -1,0 +1,13 @@
+var a= 5;
+var b=a++;
+console.log("a value is:-",a);
+console.log("b value is:-",b);
+var c=5;
+var result= c++ + ++c + c++;
+console.log(`result is ${result}`);
+var n=2;
+var res=++n + ++n - --n;
+console.log(`${res}`);
+var a =4;
+var b= a-- + ++a  + ++a + a++;
+console.log(`a= ${a},b= ${b}`);
