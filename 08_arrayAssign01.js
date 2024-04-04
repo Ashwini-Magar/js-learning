@@ -1,4 +1,5 @@
 const fruits_seasonal=["Banana","Orange","Apple","Mango","Water Melon"];
+console.log(`type of array is:${typeof(fruits_seasonal)}`);
 console.log("==================================step1================================");
 console.log(`first element of Array ${fruits_seasonal} is============>${fruits_seasonal[0]}`);
 console.log(`last element of Array ${fruits_seasonal} is============>${fruits_seasonal[fruits_seasonal.length-1]}`);
